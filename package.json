@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
  "dependencies": {
-  "chrome-aws-lambda": "^14.2.0",
-  "puppeteer-core": "^19.8.0"
+  "chrome-aws-lambda": "^10.1.0",
+  "puppeteer-core": "^24.15.0"
 }
 
 }

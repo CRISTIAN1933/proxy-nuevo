@@ -1,0 +1,10 @@
+{
+  "name": "m3u8-scraper-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^15.0.0",
+    "puppeteer-core": "^19.8.0"
+  }
+}

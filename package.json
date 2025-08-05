@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-"dependencies": {
+ "dependencies": {
   "chrome-aws-lambda": "^14.2.0",
   "puppeteer-core": "^19.8.0"
 }
 
 }
-
